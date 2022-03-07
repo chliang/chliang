@@ -3,4 +3,4 @@
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chliang&layout=compact)
 
-![Chenliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chliang&show_icons=true&theme=radical)
+![Chenliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chliang&show_icons=true)
